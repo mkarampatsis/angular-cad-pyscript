@@ -1,0 +1,85 @@
+{
+  "hash": "c94578f3",
+  "configHash": "2bdd960d",
+  "lockfileHash": "4fe71c6e",
+  "browserHash": "e9a7466a",
+  "optimized": {
+    "@angular/common/http": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "48cb01d3",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "e030e7f7",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "f35b0a76",
+      "needsInterop": false
+    },
+    "@angular/platform-browser/animations/async": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/animations/async.mjs",
+      "file": "@angular_platform-browser_animations_async.js",
+      "fileHash": "896b53b2",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "c0f71557",
+      "needsInterop": false
+    },
+    "dxf-parser": {
+      "src": "../../../../../node_modules/dxf-parser/dist/index.js",
+      "file": "dxf-parser.js",
+      "fileHash": "5b31fcf1",
+      "needsInterop": false
+    },
+    "three": {
+      "src": "../../../../../node_modules/three/build/three.module.js",
+      "file": "three.js",
+      "fileHash": "5efc01d3",
+      "needsInterop": false
+    },
+    "three/examples/jsm/controls/OrbitControls": {
+      "src": "../../../../../node_modules/three/examples/jsm/controls/OrbitControls.js",
+      "file": "three_examples_jsm_controls_OrbitControls.js",
+      "fileHash": "cb5baff1",
+      "needsInterop": false
+    },
+    "three/examples/jsm/exporters/GLTFExporter": {
+      "src": "../../../../../node_modules/three/examples/jsm/exporters/GLTFExporter.js",
+      "file": "three_examples_jsm_exporters_GLTFExporter.js",
+      "fileHash": "b5a9e380",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "browser-4NZZSQRM": {
+      "file": "browser-4NZZSQRM.js"
+    },
+    "chunk-5PVED4MW": {
+      "file": "chunk-5PVED4MW.js"
+    },
+    "chunk-NF3JGCAI": {
+      "file": "chunk-NF3JGCAI.js"
+    },
+    "chunk-LYQHWGWO": {
+      "file": "chunk-LYQHWGWO.js"
+    },
+    "chunk-F3V66QWF": {
+      "file": "chunk-F3V66QWF.js"
+    },
+    "chunk-KNW3EZWR": {
+      "file": "chunk-KNW3EZWR.js"
+    },
+    "chunk-ASLTLD6L": {
+      "file": "chunk-ASLTLD6L.js"
+    }
+  }
+}
