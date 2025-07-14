@@ -57,7 +57,6 @@ export class CadComponent implements OnInit {
           { x: this.points[1].x, y: this.points[1].y },
         ]);
         (document.getElementById('input-coords') as any).value = coords;
-        console.log("Click>>");
         (document.getElementById('generate-square') as any).click();
         this.points = [];
       }
@@ -73,6 +72,7 @@ export class CadComponent implements OnInit {
 
   listenForSquare(){
     document.addEventListener('squareGenerated', (ev: any) => {
+      console.log("ev>>",ev.detail)
       const { x, y, side } = ev.detail;
 
       const p1 = new THREE.Vector3(x, y, 0);
@@ -92,8 +92,4 @@ export class CadComponent implements OnInit {
     requestAnimationFrame(this.animate);
     this.renderer.render(this.scene, this.camera);
   };  
-
-  xxx(){
-    console.log("lalalla");
-  }
 }
