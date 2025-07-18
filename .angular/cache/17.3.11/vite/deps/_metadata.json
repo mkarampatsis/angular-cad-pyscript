@@ -1,76 +1,82 @@
 {
-  "hash": "c94578f3",
-  "configHash": "2bdd960d",
+  "hash": "c23012b9",
+  "configHash": "09669e86",
   "lockfileHash": "4fe71c6e",
-  "browserHash": "e9a7466a",
+  "browserHash": "f3f8f7ae",
   "optimized": {
     "@angular/common/http": {
       "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
       "file": "@angular_common_http.js",
-      "fileHash": "48cb01d3",
+      "fileHash": "cb2941f4",
       "needsInterop": false
     },
     "@angular/core": {
       "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
-      "fileHash": "e030e7f7",
+      "fileHash": "48ed069f",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "f35b0a76",
+      "fileHash": "514512a6",
       "needsInterop": false
     },
     "@angular/platform-browser/animations/async": {
       "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/animations/async.mjs",
       "file": "@angular_platform-browser_animations_async.js",
-      "fileHash": "896b53b2",
+      "fileHash": "7aed333f",
       "needsInterop": false
     },
     "@angular/router": {
       "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
       "file": "@angular_router.js",
-      "fileHash": "c0f71557",
+      "fileHash": "0fb5ea37",
       "needsInterop": false
     },
     "dxf-parser": {
       "src": "../../../../../node_modules/dxf-parser/dist/index.js",
       "file": "dxf-parser.js",
-      "fileHash": "5b31fcf1",
+      "fileHash": "e235910c",
       "needsInterop": false
     },
     "three": {
       "src": "../../../../../node_modules/three/build/three.module.js",
       "file": "three.js",
-      "fileHash": "5efc01d3",
+      "fileHash": "1b38429b",
       "needsInterop": false
     },
     "three/examples/jsm/controls/OrbitControls": {
       "src": "../../../../../node_modules/three/examples/jsm/controls/OrbitControls.js",
       "file": "three_examples_jsm_controls_OrbitControls.js",
-      "fileHash": "cb5baff1",
+      "fileHash": "62c48b93",
       "needsInterop": false
     },
     "three/examples/jsm/exporters/GLTFExporter": {
       "src": "../../../../../node_modules/three/examples/jsm/exporters/GLTFExporter.js",
       "file": "three_examples_jsm_exporters_GLTFExporter.js",
-      "fileHash": "b5a9e380",
+      "fileHash": "ed19b0a0",
+      "needsInterop": false
+    },
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "919b7149",
       "needsInterop": false
     }
   },
   "chunks": {
-    "browser-4NZZSQRM": {
-      "file": "browser-4NZZSQRM.js"
+    "browser-XN4LDD6N": {
+      "file": "browser-XN4LDD6N.js"
     },
-    "chunk-5PVED4MW": {
-      "file": "chunk-5PVED4MW.js"
+    "chunk-DO4RR3BO": {
+      "file": "chunk-DO4RR3BO.js"
     },
-    "chunk-NF3JGCAI": {
-      "file": "chunk-NF3JGCAI.js"
+    "chunk-HMXCBQ2B": {
+      "file": "chunk-HMXCBQ2B.js"
     },
-    "chunk-LYQHWGWO": {
-      "file": "chunk-LYQHWGWO.js"
+    "chunk-DFSYYFI5": {
+      "file": "chunk-DFSYYFI5.js"
     },
     "chunk-F3V66QWF": {
       "file": "chunk-F3V66QWF.js"

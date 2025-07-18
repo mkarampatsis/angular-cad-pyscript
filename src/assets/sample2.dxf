@@ -1,0 +1,28 @@
+  0
+SECTION
+  2
+ENTITIES
+  0
+POINT
+  8
+LayerName
+  10
+100.0  <-- X coordinate
+  20
+200.0  <-- Y coordinate
+  30
+0.0    <-- Z coordinate
+  0
+POINT
+  8
+LayerName
+  10
+150.0
+  20
+250.0
+  30
+0.0
+  0
+ENDSEC
+  0
+EOF
